@@ -15,10 +15,10 @@ The model is trained on the [Kaggle Cat vs. Dog dataset](https://www.kaggle.com/
 
 Below are some example outputs from the GradCAM implementation, showcasing the regions of interest that the model focuses on when predicting between a cat and a dog:
 
-![Dog Example 1](results/dog_example_1.jpg)
-![Cat Example 1](results/cat_example_1.jpg)
-![Dog Example 2](results/dog_example_2.jpg)
-![Cat Example 2](results/cat_example_2.jpg)
+![Dog Example 1](output_1.png)
+![Cat Example 1](output_2.png)
+![Dog Example 2](output_3.png)
+![Cat Example 2](output_4.png)
 
 ## Blog
 
