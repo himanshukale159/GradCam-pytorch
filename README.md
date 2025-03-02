@@ -18,7 +18,7 @@ Below are some example outputs from the GradCAM implementation, showcasing the r
 ![Dog Example 1](output_1.png)
 ![Cat Example 1](output_2.png)
 ![Dog Example 2](output_3.png)
-![Cat Example 2](output_4.png)
+![Cat Example 2](output_0.png)
 
 ## Blog
 
